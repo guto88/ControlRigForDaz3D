@@ -8,6 +8,8 @@
 
 3) Drag and drop the file A_Animation_CtrlRig to your viewport. Use the yellow controls  to translate, the green, red and blue controls to rotate, the purple square to control the head and the purple sphere to control the eyes.
 
+See also: https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/ControlRig/Sequences/index.html
+
 # Shortcuts:
 
 Press W to use the translate tool
