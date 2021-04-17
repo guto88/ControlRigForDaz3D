@@ -1,4 +1,4 @@
-# ControlRigForDaz3D
+# Control Rig For Daz3D (works with male and female figures based on the Genesis 8/8.1 Skeleton).
 
 # How To:
 
