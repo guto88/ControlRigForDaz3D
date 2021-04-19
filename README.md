@@ -6,7 +6,7 @@
 
 2) Copy the file A_Animation_CtrlRig from the folder Control-Rig OptionA to your project folder. Open the file and change the preview mesh to your mesh imported with the option fix bone rotations on import enabled. Hit compile and save. Read the instructions that I've left inside the file A_Animation_CtrlRig.
 
-3) Drag and drop the file A_Animation_CtrlRig to your viewport. Use the yellow controls  to translate, the green, red and blue controls to rotate, the purple square to control the head and the purple sphere to control the eyes.
+3) Drag and drop the file A_Animation_CtrlRig to your viewport. Use the yellow controls to translate and rotate with IK behaviour, the green, red and blue controls to rotate, the purple square to control the head and the purple sphere to control the eyes.
 
 See also: https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/ControlRig/Sequences/index.html
 
